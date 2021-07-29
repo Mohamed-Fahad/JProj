@@ -1,0 +1,16 @@
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.exe
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.deps.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.runtimeconfig.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.runtimeconfig.dev.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\ref\prjThirdApplication.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\bin\Debug\net5.0\prjThirdApplication.pdb
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.csproj.AssemblyReference.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.AssemblyInfoInputs.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.AssemblyInfo.cs
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\ref\prjThirdApplication.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.pdb
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\prjThirdApplication\obj\Debug\net5.0\prjThirdApplication.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.exe
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.deps.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.runtimeconfig.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.runtimeconfig.dev.json
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\ref\LINQEg.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\bin\Debug\net5.0\LINQEg.pdb
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.csproj.AssemblyReference.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.AssemblyInfoInputs.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.AssemblyInfo.cs
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\ref\LINQEg.dll
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.pdb
+C:\Users\Mohamed Fahad\source\repos\prjThirdApplication\LINQEg\obj\Debug\net5.0\LINQEg.genruntimeconfig.cache
