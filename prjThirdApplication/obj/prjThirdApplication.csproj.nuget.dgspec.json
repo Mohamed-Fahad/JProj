@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj": {}
+    "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj": {
+    "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj",
         "projectName": "prjThirdApplication",
-        "projectPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj",
+        "projectPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\prjThirdApplication\\prjThirdApplication.csproj",
         "packagesPath": "C:\\Users\\Mohamed Fahad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\prjThirdApplication\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\prjThirdApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio - Complete\\Shared\\NuGetPackages",

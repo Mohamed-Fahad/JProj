@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\LINQEg\\LINQEg.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\LINQEg\\LINQEg.csproj",
       "projectName": "LINQEg",
-      "projectPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\LINQEg\\LINQEg.csproj",
+      "projectPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\LINQEg\\LINQEg.csproj",
       "packagesPath": "C:\\Users\\Mohamed Fahad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\prjThirdApplication\\LINQEg\\obj\\",
+      "outputPath": "C:\\Users\\Mohamed Fahad\\source\\repos\\JenkinsDemo\\prjThirdApplication\\LINQEg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio - Complete\\Shared\\NuGetPackages",

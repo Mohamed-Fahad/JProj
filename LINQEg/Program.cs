@@ -84,11 +84,11 @@ namespace LINQEg
 
             //Count th enumber of marks btw 70 and 100
 
-            var r2 = (from m in Marks
+            var r3 = (from m in Marks
                       where m > 70 && m <= 100
                       select m).Count();
 
-            Console.WriteLine("The number of marks btw 70 and 100 is {0}",r2);
+            Console.WriteLine("The number of marks btw 70 and 100 is {0}",r3);
 
             //-------
             //LINQ and Objects

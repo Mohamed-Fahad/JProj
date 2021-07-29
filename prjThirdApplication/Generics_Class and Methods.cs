@@ -44,10 +44,10 @@ namespace prjThirdApplication
      * where T:<interface name>
     */
 
-    class Student<T> where T : struct 
+   /* class Student<T> where T : struct 
     {
 
-    }
+    }*/
 
     class Generics_Class_and_Methods
     {
@@ -62,7 +62,7 @@ namespace prjThirdApplication
             //error because student class will accept only struct value(Value type)
             //Student<string> student=new Student<string>(); //because string is a reference type whereas struct demands value type
 
-            Student<int> student = new Student<int>(); //this is accepted because int is value type
+           // Student<int> student = new Student<int>(); //this is accepted because int is value type
         }
     }
 }
